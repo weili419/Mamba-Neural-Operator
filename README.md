@@ -8,7 +8,7 @@
 
 (<sup>:email:</sup>) corresponding author.
 
-NeurIPS 2025 ([conference paper](https://proceedings.neurips.cc/paper_files/paper/2024/hash/5ee553ec47c31e46a1209bb858b30aa5-Abstract-Conference.html))
+NeurIPS 2024 ([conference paper](https://proceedings.neurips.cc/paper_files/paper/2024/hash/5ee553ec47c31e46a1209bb858b30aa5-Abstract-Conference.html))
 
 </div>
 
