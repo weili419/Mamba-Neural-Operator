@@ -40,11 +40,17 @@ Alternatively, you can run the `download_data.py` script to download all require
 python3 download_data.py
 ```
 
-## Train & Test
+## Train
+```bash
+python3 TrainMambaNO.py
+```
 
+## Test
 
 ## Acknowledgement :heart:
-This project is based on CNO ([paper](https://arxiv.org/pdf/2302.01178), [code](https://github.com/camlab-ethz/ConvolutionalNeuralOperator)), VM-UNet ([paper](https://arxiv.org/abs/2402.02491), [code](https://github.com/JCruan519/VM-UNet)). Thanks for their wonderful works.
+This project is based on CNO ([paper](https://arxiv.org/pdf/2302.01178), [code](https://github.com/camlab-ethz/ConvolutionalNeuralOperator)), VM-UNet ([paper](https://arxiv.org/abs/2402.02491), [code](https://github.com/JCruan519/VM-UNet)), Mamba ([github](https://github.com/state-spaces/mamba)).
+
+Thanks for their wonderful works.
 
 ## Citation
 If you find Mamba Neural Operator is useful in your research or applications, please consider giving us a star 🌟 and citing it by the following BibTeX entry.
