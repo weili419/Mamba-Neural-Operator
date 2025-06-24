@@ -1,0 +1,6 @@
+in_size,64
+N_res_neck,6
+channel_multiplier,16
+retrain,4
+FourierF,0
+depths,"[2, 2, 2, 2]"
