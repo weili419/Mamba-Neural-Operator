@@ -2,7 +2,7 @@
 <h1>Mamba-Neural-Operator</h1>
 <h3>Alias-Free Mamba Neural Operator</h3>
 
-[Jianwei Zhen](https://zhengjianwei2.github.io/)<sup>1</sup> ,[Wei Li]()<sup>1</sup>,[Ni Xu]()<sup>1</sup>, [Junwei Zhu]()<sup>1</sup>, [Xiaoxu Lin]()<sup>1</sup>, [Xiaoqin Zhang]()<sup>1 :email:</sup>
+[Jianwei Zheng](https://zhengjianwei2.github.io/)<sup>1</sup> ,[Wei Li]()<sup>1</sup>,[Ni Xu]()<sup>1</sup>, [Junwei Zhu]()<sup>1</sup>, [Xiaoxu Lin]()<sup>1</sup>, [Xiaoqin Zhang]()<sup>1 :email:</sup>
 
 <sup>1</sup>  Zhejiang University of Technology
 
